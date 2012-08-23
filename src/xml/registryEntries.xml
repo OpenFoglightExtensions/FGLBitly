@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foglight-config version="1.0.3.0" exported-on="2012-08-23T11:21:11.273Z">
+    <registry-variable name="bitly.token" value-class="java.lang.String">
+        <values>
+            <topology-type-registry-value default-value="java.lang.String;R_e06e795bfc1531e02ffab5eeb310f0e7" id="ff8081813952e9e50139532ef05422f6" is-user-created="true" variable-name="bitly.token" topology-type="TopologyObject">
+                <performance-calendars/>
+            </topology-type-registry-value>
+        </values>
+    </registry-variable>
+    <registry-variable name="bitly.user" value-class="java.lang.String">
+        <values>
+            <topology-type-registry-value default-value="java.lang.String;fglbitly" id="ff8081813952e9e50139532e633722f2" is-user-created="true" variable-name="bitly.user" topology-type="TopologyObject">
+                <performance-calendars/>
+            </topology-type-registry-value>
+        </values>
+    </registry-variable>
+</foglight-config>
