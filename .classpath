@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="lib/buildlib/gluecommon.jar"/>
+	<classpathentry kind="lib" path="lib/buildlib/gluetools.jar"/>
+	<classpathentry kind="lib" path="lib/buildlib/groovy-all-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/buildlib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="lib/buildlib/quest-common.jar"/>
+	<classpathentry kind="lib" path="lib/client/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/client/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/client/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/client/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/client/foglight-cmdline-client.jar"/>
+	<classpathentry kind="lib" path="lib/client/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/client/spring.jar"/>
+	<classpathentry kind="lib" path="lib/fglant/commons-lang.jar"/>
+	<classpathentry kind="lib" path="lib/fglant/foglight-ant.jar"/>
+	<classpathentry kind="lib" path="lib/fglant/jibx-run.jar"/>
+	<classpathentry kind="lib" path="lib/fglant/quest-common.jar"/>
+	<classpathentry kind="lib" path="lib/fglant/xpp3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
